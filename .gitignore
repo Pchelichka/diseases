@@ -1,0 +1,6 @@
+dataset/
+raw_dataset/
+*.h5
+*.keras
+models/
+.venv
